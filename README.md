@@ -1,16 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.svg" alt="Muhammad Huzaifah - Creator of Interior-Gen" width="100%">
+</p>
 
-<!--
-**mhuzaifahahmed/mhuzaifahahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **Interior-Gen**, an AI platform that turns a room photo into three priced redesigns, and a plot's dimensions into a feasibility-checked floor plan with a real AutoCAD file. It began as a Saylani internship project and I have built it out myself, end to end.
 
-Here are some ideas to get you started:
+**Live:** [interior-gen-eight.vercel.app](https://interior-gen-eight.vercel.app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+**What I work with**
+Python, FastAPI, PostgreSQL, generative image models, scikit-learn, TensorFlow
+
+**Currently**
+Data Science & AI intern at Saylani, Karachi. Building Interior-Gen.
+
+&nbsp;
+
+[LinkedIn](https://www.linkedin.com/in/muhammad-huzaifah-701947376)
